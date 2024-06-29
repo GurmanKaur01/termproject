@@ -1,0 +1,1 @@
+<?php echo "<h6 style=text-align:center>@2024 GurmanKaur01.All rights reserved. </h6>" ?>
